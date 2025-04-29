@@ -53,7 +53,7 @@ struct WelcomeView: View {
 
 ## 🎯 Why Use This?
 
-✅ **Scalability:** No need to manually inject `openWindow` or `dismissWindow` in every single view.  
+✅ **Scalability:** Add whatever new window or immerive space target, just change your algorithm!  
 ✅ **Maintainability:** One centralized way to manage window/immersive transitions.  
 ✅ **VisionOS Best Practices:** Designed with spatial computing's multi-window nature in mind.  
 ✅ **Concurrency Safety:** Designed to also work with Swift 6 strict concurrency.
