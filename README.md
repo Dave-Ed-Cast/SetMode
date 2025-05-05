@@ -1,5 +1,8 @@
 # SetMode
 
+### This is a summary of my medium article. You can read it here 👇 
+https://medium.com/@davide.castaldi31/mastering-windows-immersive-spaces-cycle-management-in-visionos-d6d98877f71a
+
 Welcome to the repository that demonstrates an advanced and scalable method for managing multiple **windows** and **immersive spaces** in a **visionOS** application, using a unified `setMode` function!
 
 > **Note:** This approach ensures that transitions between different app states are smooth, scalable, and maintainable — essential for real-world spatial computing apps.
